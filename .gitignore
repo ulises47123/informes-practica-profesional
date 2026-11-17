@@ -1,0 +1,17 @@
+# Informes reales de la práctica (datos de la institución, del grupo y de terceros): NO se publican
+[0-9]_Practica_*.txt
+informes_docx/
+informes_html/
+julian2026/
+info.txt
+datos del*
+seguridad/
+# Firma manuscrita y fotos personales
+firma.png
+horario*.jpg
+*.jpg
+# Instaladores y salidas
+*.exe
+*.pdf
+__pycache__/
+_privado_local/
